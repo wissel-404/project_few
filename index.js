@@ -9,4 +9,5 @@ function soma(){
 
 function subtracao() {
    var sub=5-2;
+   return sub;
 }
